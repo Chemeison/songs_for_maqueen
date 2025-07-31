@@ -12,6 +12,10 @@ songs for my baby
 # https://youtu.be/a3l8HO2uAnQ?si=A7vC4SXhCBb43FSO
 # ADELE GREATEST HITS
 # https://youtu.be/7viuJ-swHGA?si=M-QvYI6MEG_OEPSJ
+# JUAN GABRIEL PALACIO DE BELLAS ARTES
+# https://www.youtube.com/watch?v=Br2MdxKlvTI&list=RDBr2MdxKlvTI&start_radio=1
+# Gloria Trevi, Yuridia, Ha Ash, Edith Márquez, Alejandra Guzmán María José | Grandes Éxitos Del Ayer
+# https://youtu.be/iryBsehHmEY?si=Zw1JOnZlbd6gh7Vn
 # Juan Gabriel con varios artistas
 # https://youtu.be/ubgrcXB72Fk?si=b-I3NO4cVGrFH6a4
 # https://youtu.be/sIM4mDQJib4?si=n-LvtkeTQXUBjd7F
