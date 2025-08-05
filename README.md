@@ -80,3 +80,5 @@ songs for my baby
 # CHECA ESTE 
 ## Piense como un analista de negocios en tecnología (3 habilidades básicas + resolución de casos de estudio)
 # https://www.youtube.com/watch?v=9CGYmmHZq9Q
+## 32 Basic Business Analyst Interview Questions : Key Concepts and Best Responses
+# https://www.youtube.com/watch?v=6a2Mpn5L4tc
