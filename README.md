@@ -57,4 +57,26 @@ songs for my baby
 # https://youtu.be/G0_I-ZF0S38
 ## TREES
 # https://youtu.be/hTM3phVI6YQ
-
+#BUSINESS ANALYST STUFF
+## Business cases
+# https://youtu.be/rA6gKV0JNT8?si=otdUTQ2JSh728vxb
+# https://www.youtube.com/watch?v=tDn2P9YW1mU
+# https://youtu.be/57fvue5HcEI?si=O0KqygP8M3Dw_XRn
+# https://www.youtube.com/watch?v=rEIkT6ia6BQ
+# https://www.youtube.com/watch?v=ZSSBfx60hGU&list=PL-Jc9J83PIiEX3uxEoTRoFAQ5Fugyfzux
+# https://www.youtube.com/watch?v=ll6zu-5qmIs&t=2031s
+# https://www.youtube.com/watch?v=qK-MRRXD8XE&t=1375s
+## Proyeccion financiera
+# https://www.youtube.com/watch?v=RKUh-VwI4wk
+# https://www.youtube.com/watch?v=zWradciKREA
+## Tasas de interes 
+# https://www.youtube.com/watch?v=AjnKCIZ05XA
+# https://www.youtube.com/watch?v=CITWm9yw_Yk
+# https://www.youtube.com/watch?v=2aQd55b1sTc
+# https://www.youtube.com/watch?v=JqpKcmWiYPg
+## Conceptos financieros
+# https://www.youtube.com/watch?v=2VyDg5cyJQY
+# https://www.youtube.com/watch?v=okT5wJJlF_M
+# CHECA ESTE 
+## Piense como un analista de negocios en tecnología (3 habilidades básicas + resolución de casos de estudio)
+# https://www.youtube.com/watch?v=9CGYmmHZq9Q
