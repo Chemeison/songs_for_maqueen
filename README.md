@@ -33,6 +33,10 @@ songs for my baby
 # https://youtu.be/_bmmEnXqPG8?si=RFkN7dMBheIEPyGI
 # https://youtu.be/qRpNT5GILjM?si=MT0xIVYIiMxJoBFl
 # https://youtu.be/sIM4mDQJib4?si=__isgDKsBDuvBhCX
+# Canciones raras de tu amorcito
+# https://www.youtube.com/watch?v=UhML9hfTatc&list=RDUhML9hfTatc&start_radio=1
+# https://www.youtube.com/watch?v=nNUiVCKu_9Y&list=RDnNUiVCKu_9Y&start_radio=1
+# https://www.youtube.com/watch?v=hrZbRE8HCII&list=RDhrZbRE8HCII&start_radio=1
 # PYTHON
 ## ARRAYS AND HASHMAPS
 # https://youtu.be/3OamzN90kPg
