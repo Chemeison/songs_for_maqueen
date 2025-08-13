@@ -86,3 +86,33 @@ songs for my baby
 # https://www.youtube.com/watch?v=9CGYmmHZq9Q
 ## 32 Basic Business Analyst Interview Questions : Key Concepts and Best Responses
 # https://www.youtube.com/watch?v=6a2Mpn5L4tc
+# SQL ESTUDIO
+## Curso COMPLETO de SQL y BASES DE DATOS Desde Cero para PRINCIPIANTES
+# https://www.youtube.com/watch?v=OuJerKzV5T0&t=233s
+## CURSO COMPLETO de SQL y BASES DE DATOS Desde Cero
+# https://www.youtube.com/watch?v=8N4M994IDt8
+## 💥 RELACIONES 1aN, 1a1 y NaN | Diagrama Entidad Relación (DER) | BASES DE DATOS ✅ Explicación FÁCIL
+# https://youtu.be/AArIcStS0TU?si=x85HmjdUNMRaN7B9
+## 💥 FOREIGN y PRIMARY Key 🔑 | Con EJERCICIO PRÁCTICO | BASES DE DATOS ✅ Explicación FÁCIL #4
+# https://youtu.be/tyyhIsDmVM0?si=oETn5pXir-9lENEy
+## 💥 CONSULTAS SQL: SELECT (Lectura) | Con EJERCICIO PRÁCTICO | BASES DE DATOS ✅ Explicación FÁCIL #5
+# https://www.youtube.com/watch?v=WimSXuCam5g
+## 💥 CONSULTAS SQL: INSERT (Alta) | CLASE 99% EJERCICIOS PRÁCTICOS | BASES DE DATOS ✅ Explicación FÁCIL
+# https://www.youtube.com/watch?v=-d339YTkoxQ
+## 💥 CONSULTAS SQL: UPDATE (Editar) | CON EJERCICIOS PRÁCTICOS | BASES DE DATOS ✅ Explicación FÁCIL #7
+# https://www.youtube.com/watch?v=E8KqhbSw1KM
+## 💥 CONSULTAS SQL: DELETE (Eliminar) | CON EJERCICIOS PRÁCTICOS| BASES DE DATOS ✅Explicación FÁCIL #8
+# https://www.youtube.com/watch?v=pS8OiAfehc4
+## 💥 CONSULTAS SQL: ORDER y GROUP BY | CON EJERCICIOS PRÁCTICOS | BASES DE DATOS ✅Explicación FÁCIL #9
+# https://www.youtube.com/watch?v=eVzmJv2B2wk
+## 💥 CONSULTAS SQL: COUNT, SUM, MIN, MAX y AVG | CON PRÁCTICA| Bases de Datos ✅ Explicación FÁCIL #10
+# https://www.youtube.com/watch?v=kQwDyx1wiXM
+## 💥 CONSULTAS SQL: INNER JOIN | CON PRÁCTICA | Bases de Datos ✅ Explicación FÁCIL #11
+# https://www.youtube.com/watch?v=0BstRqp6Svg
+## 💥CONSULTAS SQL: LEFT y RIGHT JOIN | CON PRÁCTICA | Bases de Datos ✅ Explicación FÁCIL #12
+# https://www.youtube.com/watch?v=nw6tK0E5iyo
+## 💥SUBCONSULTAS SQL | CON PRÁCTICA | Bases de Datos | ✅ Explicación FÁCIL | #13
+# https://www.youtube.com/watch?v=xuASGBwNboU
+## 💥 EJERCICIO CLUB DEPORTIVO CONSULTAS SQL + MODELADO | Bases de Datos ✅ Explicación FÁCIL #14
+# https://www.youtube.com/watch?v=J67j4i0lTtY
+## 
