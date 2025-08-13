@@ -115,4 +115,18 @@ songs for my baby
 # https://www.youtube.com/watch?v=xuASGBwNboU
 ## 💥 EJERCICIO CLUB DEPORTIVO CONSULTAS SQL + MODELADO | Bases de Datos ✅ Explicación FÁCIL #14
 # https://www.youtube.com/watch?v=J67j4i0lTtY
-## 
+# LINUX ESTUDIO
+## Top 10 Linux Job Interview Questions
+# https://www.youtube.com/watch?v=l0QGLMwR-lY
+## Popular Linux Interview Questions for DevOps Interviews
+# https://www.youtube.com/watch?v=GdrjTVDelI0
+## PART1 - Linux Interview 60 Questions in 35 Min For Beginners for Job and Exam | Linux QnA |
+# https://www.youtube.com/watch?v=xWF38MY3y6o
+## PART2 - Linux Interview 70 Questions in 35 Min For Beginners for Job and Exam | Linux QnA |
+# https://www.youtube.com/watch?v=tsVJ__X1xo0
+## PART3 - Linux Interview 100 Questions in 60 Min For Experienced for Job and Exam | Linux QnA |
+# https://www.youtube.com/watch?v=W0TdmqAyJOc
+## PART4 - 50 Linux Shell Scripting Interview Questions 2024 [ENGLISH]
+# https://www.youtube.com/watch?v=x1wmWnasrVM
+## Top 15 Linux Interview Questions and Answers | Linux Interview Preparation
+# https://www.youtube.com/watch?v=TuKtmk3qBXk
